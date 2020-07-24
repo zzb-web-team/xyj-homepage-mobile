@@ -15,7 +15,7 @@
             <div class="xy_banner_item1">
                 <div class="item1">{{$t("index.banner1_nav1")}}</div>
                 <div class="item2">{{$t("index.banner1_nav2")}}</div>
-                <div class="item3">{{$t("index.banner1_nav3")}}</div>
+                <!-- <div class="item3">{{$t("index.banner1_nav3")}}</div> -->
             </div>
             <div class="xy_banner_item8" id="comment">
                 <div class="item_h2"> {{$t("index.banner2_nav1")}}</div>

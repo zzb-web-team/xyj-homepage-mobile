@@ -120,7 +120,7 @@
             <div class="item_con5">
                 <div class="item_h2">{{$t("parameter.item8_nav1")}}</div>
                 <div class="item_p">
-                    <p>{{$t("index.banner1_nav3")}}</p>
+                    <!-- <p>{{$t("index.banner1_nav3")}}</p> -->
                 </div>
 
             </div>
