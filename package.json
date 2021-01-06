@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "ajv": "^5.5.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "echarts": "^4.1.0",
     "element-ui": "^2.6.1",
     "less": "^3.9.0",
